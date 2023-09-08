@@ -1,0 +1,4 @@
+/* Start custom CSS */body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+    
+    max-width: 100% !important;
+   }/* End custom CSS */
